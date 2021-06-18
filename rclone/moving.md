@@ -5,7 +5,7 @@ is possible however with [Wasabi](https://www.wasabi.com) and
 [rclone](https://rclone.org/).
 
 Wasabi does have the ability to directly rename objects although this isn't
-directly support by rclone as of March 2021.
+directly supported by rclone as of March 2021.
 
 - [Renaming Objects](https://wasabi.com/wp-content/themes/wasabi/docs/API_Guide/index.html#t=topics%2FRenaming_Objects.htm%23XREF_12310_Renaming_Objects)
 
